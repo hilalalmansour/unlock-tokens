@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.550.0",
+    "@aws-sdk/lib-storage": "^3.550.0",
+    "puppeteer": "^22.4.1"
+  }
+}
